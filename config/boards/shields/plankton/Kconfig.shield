@@ -1,5 +1,5 @@
 # Copyright (c) 2021 The ZMK Contributors
 # SPDX-License-Identifier: MIT
 
-config SHIELD_BOARDSOURCE5X12
+config SHIELD_PLANKTON
     def_bool $(shields_list_contains,plankton)
