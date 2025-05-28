@@ -19,4 +19,5 @@
 #
 ---
 include:
-  - board: plankton
+  - board: nice_nano_v2
+  - shiel: plankton
