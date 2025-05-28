@@ -11,7 +11,6 @@
 / {
     chosen {
         zmk,kscan = &kscan0;
-        zmk,physical-layout = &layout_ortho_4x12_all1u;
         zmk,matrix-transform = &default_transform;
     };
 
